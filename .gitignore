@@ -11,6 +11,7 @@ ENV/
 .env.secrets
 .env.local
 .cursor/
+.motia/
 
 ns.json
 
